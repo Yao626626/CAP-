@@ -1,0 +1,8 @@
+#########Personal experience#########
+As  all the form of question is multiple-choice question, and the number of question is less than twenty, 
+certification of  CAP for tumor somatic mutation of  SNV/INDEL is much easy compared to CFDA  certification: There are two ways to processing this:
+    The regular processing is: Select a software as vardict/strelka2 et.al according to the data type: hybrid capture or amplicon sequencing data,
+                               then check the mutation conbined with cap and IGV verification.
+    Another direct approach is upload the sorted bam file to the IGV without mutation calling step,and looking for the right choice from the multiple choices!  
+ 
+    
